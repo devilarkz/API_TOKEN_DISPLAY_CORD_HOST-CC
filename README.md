@@ -1,0 +1,2 @@
+# API_TOKEN_DISPLAY_CORD_HOST-CC
+Discord Token
